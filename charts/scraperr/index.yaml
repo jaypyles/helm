@@ -3,7 +3,17 @@ entries:
   scraperr:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-05-13T23:07:12.166872537Z"
+    created: "2025-05-13T23:37:08.235367615Z"
+    description: A Helm chart for Kubernetes
+    digest: 0f8fc5bf2f7c4dd89be53f381afb207700cd3fc9143e1596ec8d19536e77c91a
+    name: scraperr
+    type: application
+    urls:
+    - https://jaypyles.github.io/helm/charts/scraperr/scraperr-1.0.13.tgz
+    version: 1.0.13
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-05-13T23:37:08.235103721Z"
     description: A Helm chart for Kubernetes
     digest: d92e24c8564f8a28bff00289890c490591198754905e4d9813b3db28cb5aa6dd
     name: scraperr
@@ -13,7 +23,7 @@ entries:
     version: 1.0.12
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-05-13T23:07:12.166588934Z"
+    created: "2025-05-13T23:37:08.234800072Z"
     description: A Helm chart for Kubernetes
     digest: 9b59c2be3d89ec0ef1ef2fe05773f4f74fda6cc89a9724b930d50a1c3859fa62
     name: scraperr
@@ -23,7 +33,7 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-05-13T23:07:12.166259795Z"
+    created: "2025-05-13T23:37:08.234512323Z"
     description: A Helm chart for Kubernetes
     digest: c243cf6cc0a2f1c7ab738d930f94c9d45c873138984aa3a8dc0be86411af35d6
     name: scraperr
@@ -31,4 +41,4 @@ entries:
     urls:
     - https://jaypyles.github.io/helm/charts/scraperr/scraperr-0.0.1.tgz
     version: 0.0.1
-generated: "2025-05-13T23:07:12.165800172Z"
+generated: "2025-05-13T23:37:08.234080916Z"
