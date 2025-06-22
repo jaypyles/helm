@@ -3,12 +3,12 @@ entries:
   saas-template:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-06-22T21:02:34.282949142Z"
+    created: "2025-06-22T23:05:16.275962181Z"
     description: Helm chart for the saas-template
-    digest: 2d5dbdca39c3654dd35ad42c3e81b3eb286b73937e6833af9a4679c5e5194584
+    digest: 5739a0b02646de0b7b8c319a938920a3c61e16b55a52de3079ef20fbc40a73fd
     name: saas-template
     type: application
     urls:
     - https://jaypyles.github.io/helm/charts/saas-webapp-template/saas-template-1.0.0.tgz
     version: 1.0.0
-generated: "2025-06-22T21:02:34.282537201Z"
+generated: "2025-06-22T23:05:16.275564788Z"
